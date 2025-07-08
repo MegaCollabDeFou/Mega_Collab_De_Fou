@@ -1,15 +1,11 @@
 
-
  #petitpotam {
      color: grey;
  }
+#petitpotam{background-color:teal !important;}
+#petitpotam>div{font-size:18px;}
 
- #petitpotam:first-child {
-     display: none;
- }
 
- .kilo {
-     color: orange;
- }
+
 
 
