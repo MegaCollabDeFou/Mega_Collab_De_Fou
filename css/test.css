@@ -5,16 +5,6 @@
 #petitpotam{background-color:teal !important;}
 #petitpotam>div{font-size:18px;}
 
- #petitpotam {
-     color: grey;
- }
 
- #petitpotam:first-child {
-     display: none;
- }
-
- .kilo {
-     color: orange;
- }
 
 
